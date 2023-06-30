@@ -1,4 +1,6 @@
-# install-packages [![NPM version](https://img.shields.io/npm/v/install-packages.svg?style=flat-square)](https://npmjs.com/package/install-packages) [![NPM downloads](https://img.shields.io/npm/dm/install-packages.svg?style=flat-square)](https://npmjs.com/package/install-packages) [![Build Status](https://img.shields.io/circleci/project/egoist/install-packages/master.svg?style=flat-square)](https://circleci.com/gh/egoist/install-packages)
+# This project was never finished, and will probably never be revisited.
+
+## install-packages [![NPM version](https://img.shields.io/npm/v/install-packages.svg?style=flat-square)](https://npmjs.com/package/install-packages) [![NPM downloads](https://img.shields.io/npm/dm/install-packages.svg?style=flat-square)](https://npmjs.com/package/install-packages) [![Build Status](https://img.shields.io/circleci/project/egoist/install-packages/master.svg?style=flat-square)](https://circleci.com/gh/egoist/install-packages)
 
 Programmatically install npm packages.
 
